@@ -1,0 +1,39 @@
+.agents
+.claude
+docs
+openspec
+
+######################
+# Project Specific
+######################
+Backend/target/classes/static/**
+Backend/src/test/javascript/coverage/
+
+######################
+# IntelliJ
+######################
+Backend/.idea/
+Backend/*.iml
+Backend/*.iws
+Backend/*.ipr
+Backend/*.ids
+Backend/*.orig
+Backend/classes/
+Backend/out/
+
+######################
+# Maven
+######################
+Backend/log/
+Backend/target/
+
+######################
+# Gradle
+######################
+Backend/.gradle/
+Backend/build/
+
+Frontend/node_modules
+
+skills-lock.json
+AGENTS.md
